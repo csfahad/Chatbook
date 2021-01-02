@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548241073851",
+    "project_id": "chatbook-be037",
+    "storage_bucket": "chatbook-be037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548241073851:android:b325d58e27975ee725ab9e",
+        "android_client_info": {
+          "package_name": "com.hackerbros.chatbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548241073851-mpi37hfa86r7jirv33p3k8rin014sv0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2R5GVoeT_g0XAB1wQribCemX8OxQhZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548241073851-mpi37hfa86r7jirv33p3k8rin014sv0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
